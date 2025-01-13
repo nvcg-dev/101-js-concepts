@@ -1,1 +1,1 @@
-console.log("example text")
+console.log("Log: example-text.js")
