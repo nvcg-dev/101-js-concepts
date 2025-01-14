@@ -1,0 +1,3 @@
+let luckyNum = new Object()
+
+console.log(luckyNum)

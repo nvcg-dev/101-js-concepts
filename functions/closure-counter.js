@@ -1,3 +1,5 @@
+//closure example of encapsulation
+
 function createCounter() {
     let count = 0; // Private variable
     return function() {
